@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+
+h1{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+p{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    line-height: 1.8;
+    word-spacing: 6px;
+}
